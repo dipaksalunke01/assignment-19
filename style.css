@@ -107,6 +107,31 @@
 
 
 
+   @media screen and (min-width:993px) {
+
+
+    .card{
+        height: 550px;
+        width: 380px;
+    }
+    
+    .c-img{
+        width: 380px;
+        height: 200px;
+    }
+    .course-name{
+        font-size: 22px;
+        margin:5px 0 0 10px;
+    }
+    .btn{
+         width: 100px;
+         padding: 12px;
+       }
+
+   }
+
+
+
 
 
 
