@@ -1,0 +1,62 @@
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-top: 50px;
+    height: 560px;
+    width: 350px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px 2px grey;
+    display: inline-block;
+}
+
+.c-img{
+    height: 200px;
+    width: 350px;
+    border-radius: 10px 10px 0 0;
+}
+.course-name{
+    margin:10px 0 10px 10px ;
+}
+.course-info{
+    margin: 0 0 10px 10px;
+}
+
+.course-date{
+    display:inline-block;
+    margin-bottom: 20px;
+}
+.online{
+    margin-left: 30px;
+    background-color: lightblue; 
+    border-radius: 10px; 
+    padding: 5px;
+}
+
+.course-instructor{
+    margin-left: 10px;
+
+}
+
+.price{
+    text-align: center;
+    margin:0;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: black; 
+    color: white; 
+    border-radius: 20px; 
+    border: none;
+    padding: 10px;
+   }
+
+  
