@@ -84,6 +84,29 @@
        }    
    }
 
+   @media screen and (min-width:731px) and (max-width:992px){
+
+    .card{
+        height: 550px;
+        width: 320px;
+    }
+    
+    .c-img{
+        width: 320px;
+        height: 200px;
+    }
+    .course-name{
+        font-size: 18px;
+        margin:5px 0 0 10px;
+    }
+    .btn{
+         width: 90px;
+         padding: 10px;
+       }    
+   }
+
+
+
 
 
 
