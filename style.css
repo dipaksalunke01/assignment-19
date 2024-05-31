@@ -59,4 +59,36 @@
     padding: 10px;
    }
 
-  
+   @media screen and (max-width: 730px) {
+
+    .card{
+        height: 600px;
+        width: 400px;
+    }
+    
+    .c-img{
+        width: 400px;
+        height: 260px;
+    }
+    .course-name{
+        margin:5px 0 0 10px;
+    }
+
+    .btn-container{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+         width: 110px;
+        padding: 12px;
+       }    
+   }
+
+
+
+
+
+
+
+
+
